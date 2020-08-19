@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Schaffrei",
+  siteUrl: `https://schaffrei.ch`,
   host: "0.0.0.0",
   titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  siteDescription: "Co-working space",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
