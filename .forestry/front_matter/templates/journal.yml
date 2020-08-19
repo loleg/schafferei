@@ -29,11 +29,13 @@ fields:
     source:
       type: simple
       section: authors
-      file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Verein Coworking Köniz
+    - Ayatu
+    - Corinne
+    - Oleg
   label: Author
-  default: Nichlas W. Andersen
+  default: Verein Coworking Köniz
 pages:
 - journal/vereinsgrundung.md

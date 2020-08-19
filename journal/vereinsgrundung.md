@@ -1,15 +1,12 @@
 ---
 date: 2020-08-06
-author: Nichlas W. Andersen
-title: Vereinsgründung
-excerpt: Unsere Statuten
+author: Verein Coworking Köniz
+title: Statuten
+excerpt: Unsere Gründungsdokument
 
 ---
 
 Fassung vom 05. 08. 2020
-
-Verein Coworking Köniz**  
-Statuten**
 
 **Rechtsform, Zweck und Sitz**
 
@@ -45,10 +42,10 @@ Für die Verbindlichkeiten des Vereins wird mit dem Vereinsvermögen gehaftet; e
 5. Mitgliederart
 
 Der Verein besteht aus Einzelmitgliedern (natürliche oder juristische Personen).  
-  
+
 Die Mitgliedschaft steht allen Personen und Organisationen offen, die ein Interesse an der Erreichung des in Art. 2 genannten Vereinszwecks haben.
 
-  
+
 Aktivmitglieder mit Stimm- und Wahlrecht sind natürliche oder juristische Personen, welche die Angebote und Einrichtungen des Vereins mitgestalten, mitentwickeln und nutzen.
 
 Passivmitglieder können natürliche oder juristische Personen sein, welche den Verein ideell und finanziell unterstützen. Sie haben an der Vereinsversammlung kein Stimm- und Wahlrecht.
@@ -74,7 +71,7 @@ Der vollständige Mitgliederbeitrag für das laufende Jahr muss in jedem Fall be
 Die Vereinsversammlung wird vom Vorstand mindestens 10 Tage im Voraus einberufen. Der Vorstand kann falls nötig eine ausserordentliche Vereinsversammlung einberufen. Einladungen auf elektronischem Weg sind gültig.
 
 Der Vorstand oder 1/5 der Mitglieder können jederzeit die Einberufung einer ausserordentlichen Vereinsversammlung unter Angabe des Zwecks verlangen. Die Versammlung hat spätestens vier Wochen nach Eingang des Begehrens zu erfolgen.  
-  
+
 Traktandierungsanträge zuhanden der Vereinsversammlung sind bis spätestens drei Tage vorher schriftlich oder auf elektronischem Weg an den Vorstand zu richten. Der Vorstand informiert bis spätestens zwei Tage vor der Vereinsversammlung über die Traktanden.
 
 9. Beschlussfassung
@@ -127,7 +124,7 @@ kann unter Angabe der Gründe die Einberufung einer Sitzung verlangen.
 
 Sofern kein Vorstandsmitglied mündliche Beratung verlangt, ist die Beschlussfassung auf dem Zirkularweg (auch auf elektronischem Weg) gültig.
 
-  
+
 Der Vorstand fasst Beschlüsse durch soziokratischen Konsent. Diese müssen zusätzlich allen
 
 Vereinsmitgliedern vorgelegt werden. Dies ist auf elektronischem Weg möglich. Wenn
