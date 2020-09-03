@@ -1,18 +1,16 @@
 ---
-thumbnail: "/uploads/Schaffrei.jpg"
-title: 18. September 2020
+thumbnail: "/uploads/img_20200902_180516_c.jpg"
+title: 'Open Doors: 18. September 2020'
 date: 2020-08-19
 categories:
 - happening
-project_bg_color: '#FDC70D'
-project_fg_color: ""
+project_bg_color: "#FDC70D"
+project_fg_color: ''
 
 ---
-![](/uploads/Schaffrei.jpg)
-
 # Du bist herzlich eingeladen!
 
-Am **Freitag 18 September** treffen wir uns zum ersten mal im neuen Haus vis-à-vis der Könizer Bahnhof. Komm vorbei, wir sprechen über coworking und träumen für Köniz über eine feines Getränk oder Glace.
+Am **Freitag 18 September** treffen wir uns zum ersten mal für einen Open Day im neuen Haus vis-à-vis der Könizer Bahnhof. Komm vorbei, wir sprechen über coworking und träumen für Köniz über eine feines Getränk oder Glace.
 
 ![](/uploads/geoadmin.png)
 
