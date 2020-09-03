@@ -17,7 +17,7 @@ Coworking sieht ungefähr so aus:
 
 Und passt manche Leute mehr als anderen!..
 
-<center><img src="/uploads/liveatwork.jpg" width="500"></center>
+![](/uploads/liveatwork.jpg)
 
 _"Ich kann mich nicht erinnern - arbeite ich zu Hause, oder lebe ich bei der Arbeit?"<br>[The New Yorker](https://www.newyorker.com/cartoon/a20805) &copy; Condé Nast_
 
