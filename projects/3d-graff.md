@@ -2,8 +2,7 @@
 thumbnail: "/uploads/download.png"
 title: 'Offene Türen: 18. September 2020'
 date: 2020-08-19
-categories:
-- happening
+categories: []
 project_bg_color: "#FDC70D"
 project_fg_color: ''
 
