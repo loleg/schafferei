@@ -4,10 +4,11 @@
 
       <div class="contact-header">
         <h1 class="contact-title">Kontakt</h1>
-        <p>Hinterlasse uns bitte deine Gedanken und Fragen, wir werden uns so schnell wie möglich bei dir melden.</p>
+        <p>Hinterlasse uns bitte deine Gedanken und Fragen.
+        Wir werden uns so schnell wie möglich bei dir melden </p>
       </div>
 
-      <form class="contact-form" name="contact" action="https://formspree.io/xnqgkedd">
+      <form class="contact-form" method="POST" name="contact" action="https://formspree.io/xnqgkedd">
 
         <div class="sender-info">
           <div>
@@ -20,7 +21,7 @@
           </div>
           <div>
             <input type="checkbox" name="subscribe" />
-            <label for="subscribe" class="label">Ich will zum Newsletter abonnieren</label>
+            <label for="subscribe" class="label">Newsletter abonnieren</label>
           </div>
         </div>
 
