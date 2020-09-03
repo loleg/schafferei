@@ -10,7 +10,7 @@ project_fg_color: ''
 ---
 # Du bist herzlich eingeladen!
 
-Am **Freitag 18. September** treffen wir uns zum ersten mal für einen Tag der offenen Türeny im neuen Haus vis-à-vis der Könizer Bahnhof. Komm vorbei, wir sprechen über coworking und träumen für Köniz über eine feines Getränk oder Glace.
+Am **Freitag 18. September** treffen wir uns zum ersten mal für einen Tag der offenen Türen im neuen Haus vis-à-vis des Könizer Bahnhofs. Komm vorbei!
 
 ![](/uploads/geoadmin.png)
 
