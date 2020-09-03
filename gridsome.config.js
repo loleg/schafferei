@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Schaffrei",
-  siteUrl: `https://schaffrei.ch`,
+  siteName: "Schafferei Köniz",
+  siteUrl: `https://schaffereikoeniz.ch`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Co-working space",
+  titleTemplate: "%s",
+  siteDescription: "Coworking Space",
   plugins: [
     {
       use: "@gridsome/source-filesystem",

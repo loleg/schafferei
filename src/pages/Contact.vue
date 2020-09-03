@@ -3,29 +3,33 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <h1 class="contact-title">Kontakt</h1>
+        <p>Hinterlasse uns bitte deine Gedanken und Fragen, wir werden uns so schnell wie möglich bei dir melden.</p>
       </div>
 
-      <form class="contact-form" name="contact">
+      <form class="contact-form" name="contact" action="https://formspree.io/xnqgkedd">
 
         <div class="sender-info">
           <div>
-            <label for="name" class="label">Your name</label>
+            <label for="name" class="label">Name:</label>
             <input type="text" name="name" />
           </div>
           <div>
-            <label for="email" class="label">Your email</label>
-            <input type="email" name="email" />
+            <label for="_replyto" class="label">E-mail:</label>
+            <input type="email" name="_replyto" />
+          </div>
+          <div>
+            <input type="checkbox" name="subscribe" />
+            <label for="subscribe" class="label">Ich will zum Newsletter abonnieren</label>
           </div>
         </div>
 
         <div class="message">
-          <label for="message" class="label">Message</label>
+          <label for="message" class="label">Meine Nachricht:</label>
           <textarea name="message"></textarea>
         </div>
 
-        <button class="button">Submit form</button>
+        <button class="button">Senden</button>
 
       </form>
 
@@ -96,4 +100,3 @@ textarea {
   border: 1px solid var(--color-base-1);
 }
 </style>
-

@@ -1,5 +1,5 @@
 {
-  "name": "schaffrei.ch",
+  "name": "schaffereikoeniz",
   "private": true,
   "scripts": {
     "build": "gridsome build",
