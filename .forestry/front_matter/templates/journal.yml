@@ -39,4 +39,5 @@ fields:
   default: Verein Coworking Köniz
 pages:
 - journal/vereinsgrundung.md
+- journal/was-ist-coworking.md
 - journal/wer-wir-sind.md
