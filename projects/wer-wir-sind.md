@@ -7,4 +7,8 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-Wir sind drei motivierte Menschen aus Köniz, die gemeinsam einen Coworking-Space aufbauen wollen. 
+Wir sind drei motivierte Menschen aus Köniz, die gemeinsam einen Coworking-Space aufbauen wollen.
+
+![](/uploads/img_20200902_180516_c.jpg)
+
+Corinne, Ayantu und Oleg vor der Schafferei
