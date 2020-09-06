@@ -9,7 +9,7 @@ Unser Projekt eines Coworking-Spaces am Könizer Bahnhof befindet sich noch in d
 
 ### Räumlichkeiten
 
-Den passenden Raum haben wir bereits gefunden und teilweise eingerichtet. Er befindet sich in einem ehemaligen Kostümatelier ca. 50m vom Könizer Bahnhof an der **Könizstrasse 298.**
+Den passenden Raum haben wir bereits gefunden und teilweise eingerichtet. Er befindet sich in einem ehemaligen Kostümatelier ca. 50m vom Könizer Bahnhof an der **Könizstrasse 298** ([Karte](https://s.geo.admin.ch/8b904d58a8 "Karte"))**.**
 
 Auf rund 80 Quadratmetern stehen uns ein grosser Gemeinschaftsraum und 2 kleinere Büro- oder Sitzungsräume zur Verfügung. Eine kleine Küche und ein WC gehören selbstverständlich auch dazu.
 
