@@ -22,4 +22,4 @@ _"Ich kann mich nicht erinnern - arbeite ich zu Hause, oder lebe ich bei der Arb
 
 Der Coworking Space in Köniz ist stark inspiriert von [Effinger Bern](https://effinger.ch) und ensteht in Zusammenarbeit mit dessen Pioniercommunity .
 
-![](/uploads/photos/IMG_20200408_124107.jpg)
+![](/uploads/IMG_20200408_124107.jpg)
