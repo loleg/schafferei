@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Schafferei Köniz",
-  siteUrl: `https://schaffereikoeniz.ch`,
+  siteName: "Coworking in Köniz",
+  siteUrl: `https://koeniz.space`,
   host: "0.0.0.0",
   titleTemplate: "%s",
-  siteDescription: "Coworking Space",
+  siteDescription: "Coworking Space in Köniz Switzerland",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
