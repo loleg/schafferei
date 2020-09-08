@@ -8,19 +8,6 @@ project_bg_color: "#CDE3B5"
 project_fg_color: ''
 
 ---
-
-Hex
-
-R
-
-G
-
-B
-
-**FOREGROUND COLOR**
-
-**Click to add color**
-
 # Du bist herzlich eingeladen!
 
 Am **Freitag 18. September** treffen wir uns zum ersten mal für einen Tag der offenen Türen im neuen Haus vis-à-vis des Könizer Bahnhofs ([🗺️ Karte](https://s.geo.admin.ch/8b904d58a8)). Komm vorbei!
