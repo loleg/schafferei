@@ -4,7 +4,7 @@ title: Offene Türen am 18. September
 date: 2020-08-19
 categories:
 - event
-project_bg_color: "#FDC70D"
+project_bg_color: "#EDD6E7"
 project_fg_color: ''
 
 ---
