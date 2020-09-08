@@ -3,7 +3,7 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Kontakt</h1>
+        <h1 class="contact-title">Sag "Hallo"!</h1>
         <p>Hinterlasse uns bitte deine Gedanken und Fragen.
         Wir werden uns so schnell wie möglich bei dir melden </p>
       </div>
@@ -39,7 +39,15 @@
 </template>
 
 <script>
-export default {}
+export default {
+  metaInfo () {
+    return {
+      bodyAttrs: {
+        style: `background-color: #ffd`
+      }
+    }
+  }
+}
 </script>
 
 <style scoped>

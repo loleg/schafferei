@@ -18,7 +18,7 @@
               <span class="label">Time</span>
               <span>{{ $page.post.timeToRead }} min read</span>
             </div>
-          </div>          
+          </div>
         </div>
 
         <JournalContent :content="$page.post.content" />
@@ -49,7 +49,10 @@ export default {
   },
   metaInfo () {
     return {
-      title: this.$page.post.title
+      title: this.$page.post.title,
+      bodyAttrs: {
+        style: `background-color: #fee`
+      }
     }
   }
 }

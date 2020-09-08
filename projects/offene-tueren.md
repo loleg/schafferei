@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/bildschirmfoto-von-2020-09-08-21-23-39.png"
+thumbnail: "/uploads/machmit_koenizspace.jpg"
 title: Offene Türen am 18. September
 date: 2020-08-19
 categories:

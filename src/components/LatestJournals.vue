@@ -1,14 +1,17 @@
 <template>
     <div>
         <div class="latest-journals-heading container">
-        <span class="label">Latest and greatest</span>
+          <!-- <span class="label">Latest and greatest</span> -->
         </div>
         <div class="latest-journals">
-        <div class="container">
+          <div class="container">
             <g-link :to="item.node.path" class="journal" v-for="item in journals" :key="item.node.id">
               <h3 class="journal-title">{{ item.node.title }}</h3>
             </g-link>
+          </div>
         </div>
+        <div class="container">
+          <div class="latest-journals-footer"></div>
         </div>
     </div>
 </template>
@@ -32,10 +35,19 @@ export default {
   font-weight: 400;
   text-transform: uppercase;
 }
+.latest-journals-footer {
+  background: url(../../static/icons.jpg) no-repeat left;
+  background-size: contain;
+  margin-top: 6rem;
+  margin-bottom: 0px;
+  width: 100%;
+  height: 80px;
+}
 .latest-journals {
   max-width: 100%;
   margin: 0 2rem;
   border: 1px solid var(--color-base-1);
+  text-align: center;
 }
 .latest-journals > .container {
   display: flex;
