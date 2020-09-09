@@ -9,7 +9,7 @@ Unser Projekt eines Coworking-Spaces am Könizer Bahnhof befindet sich noch in d
 
 ### Räumlichkeiten
 
-Den passenden Raum haben wir bereits gefunden und teilweise eingerichtet. Er befindet sich in einem ehemaligen Kostümatelier ca. 50m vom Könizer Bahnhof an der **Könizstrasse 298** ([Karte](https://s.geo.admin.ch/8b904d58a8 "Karte"))**.**
+Den passenden Raum haben wir bereits gefunden und teilweise eingerichtet. Er befindet sich in der ehemaligen Metallwerkstatt Kocher, rund 50 Meter neben dem Bahnhof Köniz an der Könizstrasse 298 ([Karte](https://s.geo.admin.ch/8b904d58a8 "Karte"))**.**
 
 Auf rund 80 Quadratmetern stehen uns ein grosser Gemeinschaftsraum und 2 kleinere Büro- oder Sitzungsräume zur Verfügung. Eine kleine Küche und ein WC gehören selbstverständlich auch dazu.
 
@@ -17,8 +17,8 @@ Auf rund 80 Quadratmetern stehen uns ein grosser Gemeinschaftsraum und 2 kleiner
 
 ### Öffnungszeiten
 
-Ab Mitte Oktober soll es richtig losgehen! Ab dann soll der Coworking-Space regelmässig geöffnet sind. Falls du vorher schon vorbeischauen möchtest, [melde dich](https://koeniz.space/contact "Kontakt") bitte vorgängig bei uns.
+Ab Mitte Oktober soll es richtig losgehen! Ab dann soll der Coworking-Space regelmässig geöffnet sein. Bereits jetzt treffen sich Interessierte zu bestimmten Zeiten im Space, um zu planen, einzurichten, zu besprechen oder auch schon mal zu arbeiten. Wenn du dabei sein möchtest, freuen wir uns darauf, dich kennen zu lernen. [Melde dich gerne!](/contact)
 
 ### Preise
 
-Während der Aufbauphase legen wir die Preise in individueller Absprache fest. Als Richtpreis gilt für private CoworkerInnen ein Tagespreise von 30 CHF.
+Während der Aufbauphase legen wir die Preise in individueller Absprache fest und arbeiten gleichzeitig die Angebote und Abopreise aus.
