@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/coworking-koniz-start_hoch.pdf"
+thumbnail: "/uploads/bildschirmfoto-von-2020-09-29-09-27-59.png"
 title: Start am Montag 12. Oktober 2020
 date: 2020-08-19
 categories:
