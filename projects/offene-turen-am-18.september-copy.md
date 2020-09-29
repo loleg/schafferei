@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/bildschirmfoto-von-2020-09-08-21-23-39.png"
-title: Offene Türen am 18. September-(copy)
+thumbnail: "/uploads/coworking-koniz-start_hoch.pdf"
+title: Start am Montag 12. Oktober 2020
 date: 2020-08-19
 categories:
 - event
@@ -8,12 +8,17 @@ project_bg_color: "#CDE3B5"
 project_fg_color: ''
 
 ---
-# Du bist herzlich eingeladen!
+# Wir legen los!
 
-Am **Freitag 18. September** treffen wir uns zum ersten mal für einen Tag der offenen Türen im neuen Haus vis-à-vis des Könizer Bahnhofs ([🗺️ Karte](https://s.geo.admin.ch/8b904d58a8)). Komm vorbei!
+Ab **Montag 12. Oktober 2020** ist der Coworking Space Köniz  im neuen Haus vis-à-vis des Könizer Bahnhofs regelmässig geöffnet ([🗺️ Karte](https://s.geo.admin.ch/8b904d58a8)). 
+
+Komm vorbei! 
+
+Damit sicher jemand vor Ort ist und Zeit für dich hat, sind wir froh, wenn du vorher kurz Kontakt aufnimmst und einen Termin abmachst: [Schreib uns!](/contact)  
+Du darfst aber gerne auch spontan vorbeischauen.
 
 <iframe src="https://map.geo.admin.ch/embed.html?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2FtFXHHDopTrSDOcJyyYh7AA&layers_opacity=1,1,1,0.8,1&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&E=2598292&N=1197183&zoom=11&crosshair=marker" width="100%" height="300" frameborder="0" style="border:0"></iframe>
 
-![](/uploads/IMG_20200805_161006.jpg)
+￼
 
-## Interessiert, aber leider keine Zeit vorbeizuschauen? [Schreib uns!](/contact)
+## 
