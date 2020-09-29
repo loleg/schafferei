@@ -10,9 +10,11 @@ project_fg_color: ''
 ---
 # Wir legen los!
 
-Ab **Montag 12. Oktober 2020** ist der Coworking Space Köniz  im neuen Haus vis-à-vis des Könizer Bahnhofs regelmässig geöffnet ([🗺️ Karte](https://s.geo.admin.ch/8b904d58a8)). 
+Ab **Montag 12. Oktober 2020** ist der Coworking Space Köniz  im neuen Haus vis-à-vis des Könizer Bahnhofs regelmässig geöffnet ([🗺️ Karte](https://s.geo.admin.ch/8b904d58a8)).
 
-Komm vorbei! 
+Komm vorbei!
+
+![](/uploads/bildschirmfoto-von-2020-09-29-09-27-59.png)
 
 Damit sicher jemand vor Ort ist und Zeit für dich hat, sind wir froh, wenn du vorher kurz mit uns Kontakt aufnimmst und einen Termin abmachst: [Schreib uns!](/contact)  
 Du darfst aber gerne auch spontan vorbeischauen. Wir sind meistens von Montag bis Freitag zwischen 9 und 17h da.
