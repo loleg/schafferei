@@ -11,4 +11,4 @@ Wir sind eine kleine Gruppe motivierter Menschen aus Köniz mit unterschiedliche
 
 _Corinne, Ayantu und Oleg vom Verein Coworking Köniz._
 
-Getragen wird der Coworking Space vom Verein Coworking Köniz ([Statuten.pdf](https://app.forestry.io/sites/tzzbi0kdi-vh2a/body-media//uploads/Statuten.pdf "Statuten.pdf")) mit Unterstützung der  Community des [Effinger](https://www.effinger.ch/ "Effinger") Coworking Space in Bern.
+Getragen wird der Coworking Space vom Verein Coworking Köniz mit Unterstützung der  Community des [Effinger](https://www.effinger.ch/ "Effinger") Coworking Space in Bern. Unsere **Statuten** sind [hier Zugänglich](https://docs.google.com/document/d/e/2PACX-1vTiFtJcry2DLlY12xOjJZUEGrrk6RhVHQbUiBixHLeimtEMpyFR1F1KEyJLaV2HcopSS09CKe6u9xhx/pub "Statuten in Drive") oder als [PDF zum herunterladen](/uploads/Statuten.pdf "Statuten PDF") bereit.
