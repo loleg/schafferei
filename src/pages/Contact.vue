@@ -3,34 +3,76 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Sag "Hallo"!</h1>
-        <p>Hinterlasse uns bitte deine Gedanken und Fragen.
-        Wir werden uns so schnell wie möglich bei dir melden </p>
+        <h1 class="contact-title">Hallo Coworking Köniz!</h1>
+        <p>Hinterlasse uns bitte hier deine Meldung.
+          Wir werden uns so schnell wie möglich bei dir melden: </p>
       </div>
 
       <form class="contact-form" method="POST" name="contact" action="https://formspree.io/xnqgkedd">
 
         <div class="sender-info">
           <div>
-            <label for="name" class="label">Name:</label>
+            <label for="name" class="label">Name: *</label>
+            <input type="text" name="name" required />
+          </div>
+          <div>
+            <label for="name" class="label">Vorname: *</label>
+            <input type="text" name="name" required />
+          </div>
+          <div>
+            <label for="name" class="label">Firma / Zusatz:</label>
             <input type="text" name="name" />
           </div>
           <div>
-            <label for="_replyto" class="label">E-mail:</label>
-            <input type="email" name="_replyto" />
+            <label for="name" class="label">Strasse / No.:</label>
+            <input type="text" name="name" />
           </div>
           <div>
-            <input type="checkbox" name="subscribe" />
-            <label for="subscribe" class="label">Newsletter abonnieren</label>
+            <label for="name" class="label">PLZ / Ort:</label>
+            <input type="text" name="name" />
+          </div>
+          <div>
+            <label for="name" class="label">Telefon: *</label>
+            <input type="text" name="phone" required />
+          </div>
+          <div>
+            <label for="_replyto" class="label">E-Mail: *</label>
+            <input type="email" name="_replyto" required />
+          </div>
+          <div class="checkthis">
+            <input type="radio" name="subscribe" />
+            <label for="subscribe" class="label">
+              Ich interessiere mich für ein Abonnement. Bitte nehmt mit mir Kontakt auf.
+            </label>
+          </div><div class="checkthis">
+            <input type="radio" name="subscribe" />
+            <label for="subscribe" class="label">
+              Ich löse eine 10erkarte. Bitte schickt mir die Rechnung und legt meine Karte im Space bereit.
+            </label>
+          </div><div class="checkthis">
+            <input type="radio" name="subscribe" />
+            <label for="subscribe" class="label">
+              Ich werde Mitglied im Verein Coworking Köniz und unterstütze so das Projekt.
+            </label>
+          </div><div class="checkthis">
+            <input type="radio" name="subscribe" />
+            <label for="subscribe" class="label">
+              Ich melde mich für einen Schnuppertag an. Diese Daten würden mir passen (in der Nachricht notieren).
+            </label>
+          </div><div class="checkthis">
+            <input type="radio" name="subscribe" checked />
+            <label for="subscribe" class="label">
+              Ich habe ein anderes Anliegen, siehe unten.
+            </label>
           </div>
         </div>
 
         <div class="message">
-          <label for="message" class="label">Meine Nachricht:</label>
+          <label for="message" class="label">Bemerkungen:</label>
           <textarea name="message"></textarea>
         </div>
 
-        <button class="button">Senden</button>
+        <button class="button">Abschicken</button>
 
       </form>
 
@@ -59,14 +101,26 @@ export default {
   margin: 0 0 4rem 0;
   padding: 0;
 }
+.checkthis {
+  margin-top: 1em !important;
+  display: block;
+  clear: both;
+}
+.checkthis input {
+  float: left;
+  width: 2em;
+  margin-bottom: 1em;
+}
+.checkthis .label {
+  width: auto;
+  display: inline;
+}
 .sender-info {
-  display: flex;
+  display: block;
   flex-wrap: wrap;
   margin-bottom: 2rem;
 }
 .sender-info > div {
-  flex: 1;
-  margin-right: 4rem;
 }
 .sender-info > div:last-of-type {
   margin: 0;
