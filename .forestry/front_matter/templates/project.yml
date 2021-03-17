@@ -36,5 +36,6 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/dies-ist-ein-test.md
 - projects/offen-fur-mitglieder.md
 - projects/winterpause-24.12.03.01..md
