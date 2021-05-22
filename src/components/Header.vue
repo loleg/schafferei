@@ -4,14 +4,15 @@
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
                     <img
-                        src="../../static/sheep.png"
+                        src="../../static/KZ98.jpg"
                         :alt="settings.site_name"
                         class="logo"
                     />
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/journal">Informationen</g-link>
+                <g-link class="nav__link" to="/journal">Info</g-link>
+                <g-link class="nav__link" to="/stories">Stories</g-link>
                 <g-link class="nav__link" to="/contact">Kontakt</g-link>
             </nav>
         </div>
@@ -22,7 +23,7 @@
 export default {
   data() {
     return {
-        logo: require("../../static/sheep.png"),
+        logo: require("../../static/KZ98.jpg"),
         settings: require("../../data/theme.json")
     }
   }
@@ -62,7 +63,7 @@ export default {
     text-transform: uppercase;
 }
 .nav > * {
-    font-size: 0.9rem;
+    font-size: 1.6rem;
     font-weight: 600;
     text-decoration: none;
     margin-top: 4px;

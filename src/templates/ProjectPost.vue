@@ -11,9 +11,9 @@
             <div class="categories-container">
               <div class="categories">
                 <span class="label">Categories</span>
-                <span 
+                <span
                   class="category"
-                  v-for="(category, index) in $page.post.categories" 
+                  v-for="(category, index) in $page.post.categories"
                   :key="index"
                   v-text="category"
                 />
@@ -26,6 +26,11 @@
             </div>
           </div>
         </div>
+
+        <center><g-image
+            :src="$page.post.thumbnail"
+            class="thumbnail"
+        /></center>
 
         <div v-html="$page.post.content" class="content" />
 
@@ -42,6 +47,7 @@ query ProjectPost ($path: String!) {
     date (format: "YYYY")
     content
     categories
+    thumbnail
     project_bg_color
     project_fg_color
   }

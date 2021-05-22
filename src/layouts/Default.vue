@@ -1,5 +1,5 @@
 <template>
-  <div class="layout" :class="{ 'sticky-header': $route.path === '/' }">
+  <div class="layout" :class="{ 'index-page': $route.path === '/' }">
     <Header />
     <slot/>
     <Footer />
@@ -53,8 +53,17 @@ h1 {
   padding: 0;
 }
 
-.layout.sticky-header {
+.layout.index-page {
   padding: 6rem 0 0 0;
+}
+.layout.index-page .logo {
+  visibility: hidden;
+}
+.hero-home {
+  background-image: url('../../static/KZ98_fullres.jpg');
+  background-size: cover;
+  background-origin: content-box;
+  background-attachment: fixed;
 }
 
 .container {

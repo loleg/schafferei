@@ -20,7 +20,7 @@
             <input type="text" name="name" required />
           </div>
           <div>
-            <label for="name" class="label">Firma / Zusatz:</label>
+            <label for="name" class="label">Org / Firma / Zusatz:</label>
             <input type="text" name="name" />
           </div>
           <div>

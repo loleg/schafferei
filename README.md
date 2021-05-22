@@ -1,7 +1,7 @@
 <p align="center">
   <img src="static/gridsome-forestry.png" height="240">
-  <h3 align="center">Schafferei</h3>
-  <p align="center">Coworking Space in Köniz<p>
+  <h3 align="center">KZ98</h3>
+  <p align="center">a Coworking Space in Köniz<p>
 </p>
 
 

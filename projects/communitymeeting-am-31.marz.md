@@ -1,9 +1,9 @@
 ---
 date: 2021-03-25
-thumbnail: "/uploads/20201029_223043-kopie.jpg"
+thumbnail: "/uploads/IMG_20210331_122713.jpg"
 title: Communitymeeting am 31. März
 categories: []
-project_bg_color: ''
+project_bg_color: 'fgefce'
 project_fg_color: ''
 
 ---

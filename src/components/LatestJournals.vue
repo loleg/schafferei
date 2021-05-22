@@ -1,7 +1,7 @@
 <template>
-    <div>
+    <div class="latest-journals-template">
         <div class="latest-journals-heading container">
-          <!-- <span class="label">Latest and greatest</span> -->
+          <span class="label">⬇️ Gut zu wissen</span>
         </div>
         <div class="latest-journals">
           <div class="container">
@@ -28,22 +28,27 @@ export default {
 </script>
 
 <style scoped>
+.latest-journals-template {
+  /* background: purple; color: white; */
+  margin-top: 1em;
+}
 .latest-journals-heading {
-  margin-top: 6rem;
   margin-bottom: 1rem;
-  font-size: 0.6rem;
+  font-size: 2rem;
   font-weight: 400;
   text-transform: uppercase;
+  text-align: center;
 }
-.latest-journals-footer {
+/* .latest-journals-footer {
   background: url(../../static/icons.jpg) no-repeat left;
   background-size: contain;
   margin-top: 6rem;
   margin-bottom: 0px;
   width: 100%;
   height: 80px;
-}
+} */
 .latest-journals {
+  background: white; color: black;
   max-width: 100%;
   margin: 0 2rem;
   border: 1px solid var(--color-base-1);
