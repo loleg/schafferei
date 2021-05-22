@@ -3,7 +3,7 @@
         <g-link class="boom" to="/journal">KZ98</g-link>
         <h1 class="hero-title" v-html="settings.hero_title" />
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
-        <g-link class="button" to="/contact">Schnuppertag buchen!</g-link>
+        <g-link class="button" to="/contact">Schnuppertag buchen</g-link>
     </div>
 </template>
 
@@ -43,10 +43,15 @@ export default {
   color: #1e5f75;
   font-size: 6rem;
   font-weight: 700;
+  text-decoration: none;
 }
 .boom:hover {
   transform: perspective(3000px) rotateY(5deg);
 }
+@media (max-width: 660px) {
+    .boom { display: none; }
+}
+
 .hero-title {
     font-size: 3rem;
     font-weight: 700;
@@ -67,9 +72,10 @@ export default {
     color: black;
     background: white;
 }
+
 .button {
-    border-radius: 1em;
-    color: darkgrey;
+    border-radius: 0.2em;
+    color: #333;
     background: #eee;
     text-shadow: 1px 1px 3px lightgrey;
     padding: 1em; margin-top: 2em;
@@ -79,7 +85,7 @@ export default {
     transition: transform 1s ease 0s;
 }
 .button:hover {
-    color: lightgreen;
+    color: blue;
   transform: perspective(3000px) rotateY(5deg) scale(1.4);
 }
 </style>
