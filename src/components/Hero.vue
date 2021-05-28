@@ -32,7 +32,7 @@ export default {
   border-radius: 1rem;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 25px 50px -12px;
   transition: transform 1s ease 0s;
-  background: linear-gradient(135deg,#000 50%,#fff 50.1%);
+  background: linear-gradient(135deg,#fee 50%,#fff 50.1%);
   display: inline-block;
   width: 4em;
   position: absolute;
