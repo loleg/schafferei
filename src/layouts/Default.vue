@@ -60,8 +60,8 @@ h1 {
   visibility: hidden;
 }
 .hero-home {
-  background-image: url('../../static/KZ98_fullres.jpg');
-  background-size: cover;
+  background-image: url('../../static/K298.jpg');
+  background-size: contain;
   background-origin: content-box;
   background-attachment: fixed;
 }

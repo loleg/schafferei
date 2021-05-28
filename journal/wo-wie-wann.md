@@ -17,7 +17,7 @@ Auf rund 80 Quadratmetern stehen uns ein grosser Gemeinschaftsraum und 2 kleiner
 
 ### Öffnungszeiten
 
-Ab **Montag 12. Oktober** geht es richtig los! Wir öffnen den Coworking-Space regelmässig. Normalerweise werden wir von Montag bis Freitag 9 bis 17 Uhr im Space sein. Damit sicher jemand vor Ort ist und Zeit für dich hat, sind wir froh, wenn du dich vorher kurz bei uns [meldest](https://koeniz.space/contact). Du darfst aber auch gerne spontan vorbeischauen.
+Mitglieder haben freien Zugang am regulären Arbeitszeiten. Für Tagesgäste und Schnupperer öffnen wir den Coworking-Space so regelmässig wie möglich. Normalerweise werden wir von Montag bis Freitag 9 bis 17 Uhr im Space sein. Damit sicher jemand vor Ort ist und Zeit für dich hat, sind wir froh, wenn du dich vorher kurz bei uns [meldest](https://koeniz.space/contact). Du darfst aber auch gerne spontan vorbeischauen.
 
 ### Preise
 

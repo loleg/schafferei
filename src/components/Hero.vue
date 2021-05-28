@@ -1,6 +1,6 @@
 <template>
     <div class="hero">
-        <g-link class="boom" to="/journal">KZ98</g-link>
+        <g-link class="boom" to="/journal">K298</g-link>
         <h1 class="hero-title" v-html="settings.hero_title" />
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
         <g-link class="button" to="/contact">Schnuppertag buchen</g-link>
@@ -24,7 +24,8 @@ export default {
     max-width: 100%;
     margin: 0 auto;
     padding: 4rem 0 8rem 0;
-    background: purple; color: white;
+    background: rgba(75,4,26,0.8);
+    color: white;
 }
 .boom {
   transform: perspective(1500px) rotateY(35deg) rotateZ(-15deg);
@@ -76,7 +77,7 @@ export default {
 .button {
     border-radius: 0.2em;
     color: #333;
-    background: #eee;
+    background: #ebea63;
     text-shadow: 1px 1px 3px lightgrey;
     padding: 1em; margin-top: 2em;
     display: inline-block;
