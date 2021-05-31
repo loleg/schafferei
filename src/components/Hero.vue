@@ -1,6 +1,6 @@
 <template>
     <div class="hero">
-        <g-link class="boom" to="/journal">K298</g-link>
+        <g-link class="boom" to="/journal">Kö298</g-link>
         <h1 class="hero-title" v-html="settings.hero_title" />
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
         <g-link class="button" to="/contact">Schnuppertag buchen</g-link>
@@ -34,12 +34,12 @@ export default {
   transition: transform 1s ease 0s;
   background: linear-gradient(135deg,#fee 50%,#fff 50.1%);
   display: inline-block;
-  width: 4em;
+  width: 5em;
   position: absolute;
   top: 1em;
   left: 0.5em;
   vertical-align: middle;
-  padding: 0px 1em;
+  padding: 0px 0.4em;
   cursor: pointer;
   color: #1e5f75;
   font-size: 6rem;
