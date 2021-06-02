@@ -4,7 +4,7 @@
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
                     <img
-                        src="../../static/K298.jpg"
+                        src="../../static/verein.png"
                         :alt="settings.site_name"
                         class="logo"
                     />
@@ -23,7 +23,6 @@
 export default {
   data() {
     return {
-        logo: require("../../static/K298.jpg"),
         settings: require("../../data/theme.json")
     }
   }

@@ -1,8 +1,8 @@
 ---
-date: 2020-09-03
+date: 2021-05-01
 author: Verein Coworking Köniz
-title: Coworking?
-excerpt: Was ist es
+title: Coworking!
+excerpt: Was ist es genau
 
 ---
 Wikipedia sagt dazu:

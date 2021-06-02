@@ -24,10 +24,19 @@ export default {
     max-width: 100%;
     margin: 0 auto;
     padding: 4rem 0 8rem 0;
-    background: rgba(75,4,26,0.8);
-    color: white;
+    /* background: rgba(75,4,26,0.8); */
+    /* color: white; */
 }
 .boom {
+  background: url('../../static/verein.png') no-repeat;
+  background-size: contain;
+  width: 120px; height: 120px;
+  position: absolute;
+  top: 1em;  left: 0.5em;
+  font-size: 0px;
+  transition: transform 1s ease 0s;
+}
+.badaboom {
   transform: perspective(1500px) rotateY(35deg) rotateZ(-15deg);
   border-radius: 1rem;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 25px 50px -12px;
@@ -56,8 +65,11 @@ export default {
 .hero-title {
     font-size: 3rem;
     font-weight: 700;
-    padding: 0;
-    margin: 0 0 2rem 0;
+    /* margin: 0 0 2rem 0; */
+    margin: 0px;
+    padding-top: 1em;
+    background: rgba(75,4,26,0.8);
+    color: white;
 }
 .hero-title p,
 .hero-subtitle p {
@@ -76,9 +88,11 @@ export default {
 
 .button {
     border-radius: 0.2em;
-    color: #333;
-    background: #ebea63;
-    text-shadow: 1px 1px 3px lightgrey;
+    border: 5px solid rgba(75,4,26,0.8);
+
+    color: #000;
+    background: #aeb;
+    text-shadow: 1px 1px 3px white;
     padding: 1em; margin-top: 2em;
     display: inline-block;
     text-decoration: none;

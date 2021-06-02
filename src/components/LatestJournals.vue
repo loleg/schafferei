@@ -1,8 +1,8 @@
 <template>
     <div class="latest-journals-template">
-        <div class="latest-journals-heading container">
+        <!-- <div class="latest-journals-heading container">
           <span class="label">⬇️ Gut zu wissen</span>
-        </div>
+        </div> -->
         <div class="latest-journals">
           <div class="container">
             <g-link :to="item.node.path" class="journal" v-for="item in journals" :key="item.node.id">
@@ -76,7 +76,7 @@ export default {
 }
 
 .journal-title {
-  font-size: 1rem;
+  font-size: 1.5rem;
   line-height: 1.35;
 }
 

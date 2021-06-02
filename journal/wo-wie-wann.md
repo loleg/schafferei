@@ -1,5 +1,5 @@
 ---
-date: 2020-09-04
+date: 2021-06-02
 author: Verein Coworking Köniz
 title: Wo, wie, wann?
 excerpt: Räume, Infrastruktur, Angebote
@@ -13,7 +13,7 @@ Den passenden Raum haben wir bereits gefunden und teilweise eingerichtet. Er bef
 
 Auf rund 80 Quadratmetern stehen uns ein grosser Gemeinschaftsraum und 2 kleinere Büro- oder Sitzungsräume zur Verfügung. Eine kleine Küche und ein WC gehören selbstverständlich auch dazu.
 
-![](/uploads/img_20200906_interior.jpg)
+![](/uploads/IMG_20210531_144452-01.jpeg)
 
 ### Öffnungszeiten
 
