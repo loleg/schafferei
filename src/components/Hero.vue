@@ -67,7 +67,7 @@ export default {
     font-weight: 700;
     /* margin: 0 0 2rem 0; */
     margin: 0px;
-    padding-top: 1em;
+    padding: 1em 0px;
     background: rgba(75,4,26,0.8);
     color: white;
 }

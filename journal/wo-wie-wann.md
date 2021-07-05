@@ -2,7 +2,7 @@
 date: 2021-06-02
 author: Verein Coworking Köniz
 title: Wo, wie, wann?
-excerpt: Räume, Infrastruktur, Angebote
+excerpt: Räume, Angebote, Preise
 
 ---
 Unser Projekt eines Coworking-Spaces am Könizer Bahnhof befindet sich noch in der Aufbauphase. Hier geht es um die Räume und Angebote.
