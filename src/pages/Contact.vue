@@ -5,9 +5,7 @@
       <div class="contact-header">
         <h1 class="contact-title">Hallo Coworking Köniz!</h1>
 
-        <p>Falls du uns besuchen willst, sind wir 50 Meter neben dem Bahnhof Köniz an der
-        <b><a href="https://s.geo.admin.ch/8b904d58a8" target="_blank">Könizstrasse 298</a></b>.<br>
-        Wir bitten allerdings um eine vorläufige Anmeldung ("Schnuppertag") in dem unterliegenden Kontaktformular.</p>
+        <p>Wir sind momentan geschlossen. Bis wir wieder die Türe in Köniz aufmachen, arbeiten wir von zu Hause, oder im <a href="https://effinger.ch" target="_blank">Effinger in Bern</a>.</p>
 
         <p>Hinterlasse uns bitte hier deine Fragen.
           Wir werden uns so schnell wie möglich bei dir melden: </p>
