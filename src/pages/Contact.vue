@@ -5,7 +5,7 @@
       <div class="contact-header">
         <h1 class="contact-title">Hallo Coworking Köniz!</h1>
 
-        <p>Wir sind momentan geschlossen. Bis wir wieder die Türe in Köniz aufmachen, arbeiten wir von zu Hause, oder im <a href="https://effinger.ch" target="_blank">Effinger in Bern</a>.</p>
+        <p>Wir sind <a href="/projects/winterpause-2022/">vorübergehend geschlossen</a>. Im Moment arbeiten wir von zu Hause, oder im <a href="https://effinger.ch" target="_blank">Effinger in Bern</a>.</p>
 
         <p>Hinterlasse uns bitte hier deine Fragen.
           Wir werden uns so schnell wie möglich bei dir melden: </p>

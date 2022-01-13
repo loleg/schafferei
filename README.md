@@ -4,10 +4,13 @@
   <p align="center">Coworking in Köniz<p>
 </p>
 
+# Coworking Köniz
 
-## Forestry (Content Management)
+This is the source code and content of the home page of the non-profit association Coworking Köniz.
 
-This project has been pre-configured to work with Forestry, just import your repository ✨  
+## Editing with Forestry
+
+This project has been pre-configured to work with the Forestry CMS, just import the repository ✨  
 Any changes you make will be commited back to the repo, and deployed in a few minutes.
 
 <p>

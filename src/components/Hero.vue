@@ -3,7 +3,7 @@
         <g-link class="boom" to="/journal">Kö298</g-link>
         <h1 class="hero-title" v-html="settings.hero_title" />
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
-        <g-link class="button" to="/contact">Schnuppertag buchen</g-link>
+        <g-link class="button" to="/projects/winterpause-2022/">Vorübergehend geschlossen</g-link>
     </div>
 </template>
 
@@ -91,7 +91,8 @@ export default {
     border: 5px solid rgba(75,4,26,0.8);
 
     color: #000;
-    background: #aeb;
+    /* background: #aeb; */
+    background: #fcc;
     text-shadow: 1px 1px 3px white;
     padding: 1em; margin-top: 2em;
     display: inline-block;

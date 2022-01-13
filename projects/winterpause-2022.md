@@ -8,8 +8,10 @@ project_fg_color: ''
 
 ---
 
-Liebe Coworking-Begeisterte in Köniz und Umgebung
+# Liebe Coworking-Begeisterte in Köniz und Umgebung
 
 Das Coworking Köniz schliesst aufgrund der erneuten Homeofficepflicht seine Pforten. Es war eine tolle Zeit mit spannenden Menschen und Coworking in Köniz bleibt ein Bedarf.
 
-Der Verein bleibt bestehen! Interessiert, im Vorstand mitzumachen oder Mitglied zu werden und neue Projekte zu entwickeln? **[Melde dich bei uns!](/contact)**
+Der Verein bleibt bestehen! Interessiert, im Vorstand mitzumachen oder Mitglied zu werden und neue Projekte zu entwickeln?
+
+## **[Melde dich bei uns!](/contact)**
